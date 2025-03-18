@@ -1967,6 +1967,7 @@ This line is used by the kernel to find the Python interpreter, but is ignored b
 <a id="documentation"></a>
 ### 3.8 Comments and Docstrings 
 
+Comments should augment and improve the meaning of the human-readable code.
 Be sure to use the right style for module, function, method docstrings and
 inline comments.
 
